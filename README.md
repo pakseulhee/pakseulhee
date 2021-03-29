@@ -7,4 +7,4 @@ Here are some information on me:
 
 - 🔭 I’m currently working at KAP.
 - 🌱 I’m currently studying oracle SQL, javascript, C etc at KAP.
-- 📫 How to reach me: seulhee4 (kakao ID)
+- 📫 I really want to be KBgroup's digital employee😍
