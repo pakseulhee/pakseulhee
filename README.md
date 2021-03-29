@@ -5,6 +5,6 @@
 
 Here are some information on me:
 
-- 🔭 I’m currently getting a job.
-- 🌱 I’m currently learning K-Digital on_off lecture given by multicampus.
+- 🔭 I’m currently working at KAP.
+- 🌱 I’m currently studying oracle SQL, javascript, C etc at KAP.
 - 📫 How to reach me: seulhee4 (kakao ID)
