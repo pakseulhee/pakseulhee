@@ -8,3 +8,7 @@ Here are some information on me:
 - 🔭 I’m currently working at KAP.
 - 🌱 I’m currently studying oracle SQL, javascript, C etc at KAP.
 - 📫 blog: https://seulhee030.tistory.com/
+
+Goals for 2021:
+
+- 자격증 수집가 (보유 자격증 10개 만들기)
