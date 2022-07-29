@@ -5,10 +5,5 @@
 
 Here are some information on me:
 
-- 🔭 I’m currently working at MOORIM.
 - 📫 blog: https://seulhee030.tistory.com/
 
-
-Goals for 2021:
-
-- 💼 자격증 수집가 
